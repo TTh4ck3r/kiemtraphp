@@ -6,7 +6,7 @@
             <div class="card shadow-sm">
                 <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
                     <h3 class="mb-0">
-                        <i class="bi bi-people-fill me-2"></i>THÔNG TIN NHÂN VIÊN
+                        THÔNG TIN NHÂN VIÊN
                     </h3>
                     <?php if ($isAdmin): ?>
                         <a href="index.php?controller=nhanvien&action=add" class="btn btn-success btn-sm">
